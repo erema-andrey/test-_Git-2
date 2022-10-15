@@ -19,3 +19,4 @@
 
 * git long --oneline - короткий просмотр коммитов
 
+* git config --global user.name "<ваше_имя>"
